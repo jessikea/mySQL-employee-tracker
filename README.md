@@ -1,6 +1,6 @@
 # mySQL-employee-tracker## Description
 
-Using Node.js, Inquirer, and MySQL, this command-line application was created to manage a company's employee database.
+Using Node.js, Inquirer, and MySQL, this command-line application was created to manage a company's employee database. User can view all employees, departments, and change the data using the up and down arrow keys in the console. Adding and removing data is also available.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Instructions for use
 
 Github repo: 
 Demo video: 
-Here is a screen shot of a generated team profile page:
+https://drive.google.com/file/d/1LvBqETmmLvTVGmnmc2fWeTF_GLs9ZZ9O/view
 
 
 ## License
